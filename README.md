@@ -10,7 +10,7 @@ Olá pessoal, meu nome é Camila Feldkircher Antunes e esse repositório no GitH
 
 | Aulas | Local |
 | --- | ---    |
-| **Aula 01**| [Começe pelo básico](aula01/readme.md) |
+| **Aula 01**| Começe pelo básico |
 | **Aula 02** | Ainda não finalizada |
 | **Aula 03**| Ainda não finalizada |
 | **Aula 04** | Ainda não finalizada |
